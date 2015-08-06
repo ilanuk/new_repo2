@@ -1,0 +1,6 @@
+total 16
+drwxrwxr-x  3 ilan ilan 4096 Aug  5 20:24 .
+drwxr-xr-x 43 ilan ilan 4096 Aug  5 19:55 ..
+drwxrwxr-x  9 ilan ilan 4096 Aug  5 20:23 .git
+-rw-rw-r--  1 ilan ilan    0 Aug  5 20:24 list1.txt
+-rw-rw-r--  1 ilan ilan   57 Aug  5 19:55 README.md
